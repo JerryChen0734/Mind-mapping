@@ -1,15 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da8c994a-b9af-4efa-b5e1-fd5279efded0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="C:\WorkTools\apache-maven-3.3.9\repository3\repository3" />
-        <option name="mavenHome" value="C:/WorkTools/apache-maven-3.3.9/apache-maven-3.3.9" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../WorkTools/apache-maven-3.3.9/apache-maven-3.3.9" />
         <option name="userSettingsFile" value="C:\WorkTools\apache-maven-3.3.9\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1du8278M5OSc7JdW0PQimL9eIhM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da8c994a-b9af-4efa-b5e1-fd5279efded0" name="Default Changelist" comment="" />
+      <created>1593263407787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593263407787</updated>
+      <workItem from="1593263409513" duration="454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="327" key="Github.ShareDialog" timestamp="1593263474097">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="592" y="327" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1593263474097" />
+    <state x="502" y="134" key="Github.UntrackedFilesDialog" timestamp="1593263489767">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="502" y="134" key="Github.UntrackedFilesDialog/0.0.1440.860@0.0.1440.860" timestamp="1593263489767" />
   </component>
 </project>
